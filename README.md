@@ -5,6 +5,8 @@
          Hi there, I'm Javier
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
    </h1>
+   
+   <p> 🐬 Welcome to my Github's Profile</p>
 </div>
 
 <div align="left">
@@ -13,10 +15,11 @@
    </a>
 
    <a>
-      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="left" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="right" />
    </a>
 </div>
 
+***
 
 
 <br><br><br><br><br><br>
