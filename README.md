@@ -15,14 +15,12 @@
    </a>
 
    <a>
-      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="right" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="center" />
    </a>
 </div>
 
+<br><br><br><br><br><br><br><br>
 
-
-
-<br><br><br><br><br><br>
 <div align="center">
    <br/>
    <h3 align="center">Social Media✨:</h3>
