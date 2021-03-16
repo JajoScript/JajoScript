@@ -1,17 +1,39 @@
-### Hi there 👋
 
-![Mario Hugo](https://i.pinimg.com/564x/75/2b/72/752b728f61efa81493b0697e97166ee4.jpg)
-<!--
-**JajoScript/JajoScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <h1>
+      <img align="middle" src="https://cdn.discordapp.com/attachments/570952602355761162/821467773946560552/DGg4koxXUAE_h1t.png" width=10% height=10% />
+      Hi there, I'm Javier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-Here are some ideas to get you started:
+***
+<a>
+   <img src="https://github-readme-stats.vercel.app/api?username=jajoscript&count_private=true&show_icons=true&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's stats" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Social ✨:
+<a href="https://open.spotify.com/user/jyx0evb84wd3kriql8jckptee">
+  <img src="https://img.icons8.com/nolan/64/spotify.png"/>
+</a>
+<a href="https://www.linkedin.com/in/javier-almarza-bucarey/">
+  <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
+</a>
+<a href="https://www.instagram.com/_.javier.almarza/">
+  <img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
+</a>
+
+### Languages and Tools 💾:
+<a><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/python.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/mysql.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
+          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true)](https://github.com/jajoscript/github-readme-stats)
+
+<!-- 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jajoscript&theme=synthwave)](https://github.com/jajoscript/github-readme-stats)
 -->
+
