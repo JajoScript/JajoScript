@@ -7,7 +7,7 @@
    </h1>
 </div>
 
-<div align="right">
+<div align="left">
    <a>
       <img src="https://github-readme-stats.vercel.app/api?username=jajoscript&count_private=true&show_icons=true&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's         stats" align="left" />
    </a>
@@ -16,10 +16,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="left" />
    </a>
 </div>
-<br/>
 
 
+
+<br><br><br><br><br><br>
 <div align="center">
+   <br/>
    <h3 align="center">Social Media✨:</h3>
    
    <a href="https://open.spotify.com/user/jyx0evb84wd3kriql8jckptee">
