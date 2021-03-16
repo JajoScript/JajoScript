@@ -12,16 +12,21 @@
    <img src="https://github-readme-stats.vercel.app/api?username=jajoscript&count_private=true&show_icons=true&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's stats" align="right" />
 </a>
 
-### Social Media✨:
-<a href="https://open.spotify.com/user/jyx0evb84wd3kriql8jckptee">
-  <img src="https://img.icons8.com/nolan/64/spotify.png"/>
-</a>
-<a href="https://www.linkedin.com/in/javier-almarza-bucarey/">
-  <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
-</a>
-<a href="https://www.instagram.com/_.javier.almarza/">
-  <img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
-</a>
+<div align="center">
+   <h3 align="center">Social Media✨:</h3>
+   
+   <a href="https://open.spotify.com/user/jyx0evb84wd3kriql8jckptee">
+      <img src="https://img.icons8.com/nolan/64/spotify.png"/>
+   </a>
+   <a href="https://www.linkedin.com/in/javier-almarza-bucarey/">
+     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
+   </a>
+   <a href="https://www.instagram.com/_.javier.almarza/">
+     <img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
+   </a>   
+</div>
+   
+
 
 ### Languages and Tools 💾:
 <a><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
