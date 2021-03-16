@@ -23,7 +23,6 @@
 
 
 <br><br><br><br><br><br>
-***
 <div align="center">
    <br/>
    <h3 align="center">Social Media✨:</h3>
