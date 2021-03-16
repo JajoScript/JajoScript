@@ -13,7 +13,7 @@
    </a>
 
    <a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="left" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="left" />
    </a>
 </div>
 
@@ -34,19 +34,23 @@
      <img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
    </a>   
 </div>
-   
+
+<div align="center">
+   <h3 align="center">Languages and Tools 💾:</h3>
+     
+    
+   <a><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/python.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/mysql.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/></a>
+</div>
 
 
-### Languages and Tools 💾:
-<a><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/python.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/mysql.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
-<a><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/></a>
 <!-- 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jajoscript&theme=synthwave)](https://github.com/jajoscript/github-readme-stats)
 -->
