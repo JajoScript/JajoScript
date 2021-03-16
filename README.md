@@ -30,8 +30,11 @@
 <a><img src="https://img.icons8.com/nolan/64/python.png"/></a>
 <a><img src="https://img.icons8.com/nolan/64/mysql.png"/></a>
 <a><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/></a>
           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true)](https://github.com/jajoscript/github-readme-stats)
+<a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's stats" align="right" />
+</a>
 
 <!-- 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jajoscript&theme=synthwave)](https://github.com/jajoscript/github-readme-stats)
