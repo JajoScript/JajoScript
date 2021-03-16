@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Mario Hugo](https://i.pinimg.com/564x/75/2b/72/752b728f61efa81493b0697e97166ee4.jpg)
 <!--
 **JajoScript/JajoScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
