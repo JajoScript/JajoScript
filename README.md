@@ -11,11 +11,11 @@
 
 <div align="left">
    <a>
-      <img src="https://github-readme-stats.vercel.app/api?username=jajoscript&count_private=true&show_icons=true&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's         stats" align="left" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jajoscript&count_private=true&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="Jajoscript's         stats" align="left" />
    </a>
 
    <a>
-      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=es" alt="Jajoscript's           stats" align="center" />
+      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoscript&hide=javascript,html&theme=synthwave&hide_border=true&locale=en" alt="Jajoscript's           stats" align="center" />
    </a>
 </div>
 
