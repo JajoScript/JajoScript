@@ -1,8 +1,6 @@
 <div align="center">
    <h1>
-      <span>
-         <img display="inline-block" align="middle" src="https://cdn.discordapp.com/attachments/570952602355761162/821467773946560552/DGg4koxXUAE_h1t.png" width=10% height=10%         /></span>
-         Hi there, I'm Javier
+      Hi there, I'm Javier
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
    </h1>
    
