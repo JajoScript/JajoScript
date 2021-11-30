@@ -23,7 +23,7 @@
    <a href="https://www.linkedin.com/in/javier-almarza-bucarey/">
      <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
    </a>
-   <a href="https://www.instagram.com/_.javier.almarza/">
+   <a href="https://www.instagram.com/jajoscript/">
      <img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
    </a>   
 </div>
