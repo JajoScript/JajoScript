@@ -7,19 +7,42 @@
     <b>Hey! Welcome to my Github Profile!</b>
 </h1>
 
-<h2><b>🏆 My GitHub stats:</b></h2>
+<h2 style="display:flex; justify-content:center;"><b>🏆 My GitHub stats</b></h2>
 <div style="display:flex; gap: 20px; justify-content:center;">
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JajoScript" />
     <img width="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=jyx0evb84wd3kriql8jckptee&count=3" />
 </div>
 
-<h2><b>🔭 Lenguages</b></h2>
-<div style="display:flex; gap:10px;">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<div style="display:grid; grid-template-columns: 1fr 1fr; grid-template-row: 1fr;">
+    <div>        
+        <h2 style="display:flex; gap: 10px; justify-content:center;"><b>🔭 Lenguages</b></h2>
+        <div style="display:flex; gap: 10px; justify-content:center;">   
+            <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+            <img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C"/>
+            <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java"/>
+            <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+            <img srC="https://img.icons8.com/color/48/css3.png" alt="CSS">
+        </div>
+    </div>
+    <div>
+        <h2 style="display:flex; gap: 10px; justify-content:center;"><b>🤖 Frameworks & more </b></h2>
+        <div style="display:flex; gap: 10px; justify-content:center;">
+            <img src="https://img.icons8.com/office/50/000000/react.png" alt="react"/>
+            <img src="https://img.icons8.com/color/50/nodejs.png" alt="react"/>
+            <img src="https://img.icons8.com/ios/50/000000/notion.png" alt="notion"/>
+            <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+            <img src="https://img.icons8.com/color/50/adobe-xd.png" alt="xd"/>
+            <img src="https://img.icons8.com/color/50/adobe-photoshop.png" alt="xd"/>
+        </div>
+    </div>
+</div>
+
+<h2 style="display:flex; gap: 20px; justify-content:center;"><b>🎨 Software</b></h2>
+<div style="display:flex; gap: 20px; justify-content:center;">
+    <img src="https://img.icons8.com/office/50/000000/react.png" alt="react"/>
+    <img src="https://img.icons8.com/ios/50/000000/notion.png" alt="notion"/>
+    <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+    <img src="https://img.icons8.com/color/50/adobe-xd.png" alt="xd"/>
+    <img src="https://img.icons8.com/color/50/adobe-photoshop.png" alt="xd"/>
 </div>
