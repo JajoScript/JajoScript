@@ -29,11 +29,7 @@
         <h2 style="display:flex; gap: 10px; justify-content:center;"><b>🤖 Frameworks & more </b></h2>
         <div style="display:flex; gap: 10px; justify-content:center;">
             <img src="https://img.icons8.com/office/50/000000/react.png" alt="react"/>
-            <img src="https://img.icons8.com/color/50/nodejs.png" alt="react"/>
-            <img src="https://img.icons8.com/ios/50/000000/notion.png" alt="notion"/>
-            <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
-            <img src="https://img.icons8.com/color/50/adobe-xd.png" alt="xd"/>
-            <img src="https://img.icons8.com/color/50/adobe-photoshop.png" alt="xd"/>
+            <img src="https://img.icons8.com/color/50/nodejs.png" alt="Node"/>
         </div>
     </div>
 </div>
@@ -44,5 +40,5 @@
     <img src="https://img.icons8.com/ios/50/000000/notion.png" alt="notion"/>
     <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
     <img src="https://img.icons8.com/color/50/adobe-xd.png" alt="xd"/>
-    <img src="https://img.icons8.com/color/50/adobe-photoshop.png" alt="xd"/>
+    <img src="https://img.icons8.com/color/50/adobe-photoshop.png" alt="photoshop"/>
 </div>
