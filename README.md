@@ -34,7 +34,7 @@
     </div>
 </div>
 
-<h2 style="display:flex; gap: 20px; justify-content:center;"><b>🎨 Software</b></h2>
+<h2 align="center" style="display:flex; gap: 20px; justify-content:center;"><b>🎨 Software</b></h2>
 <div align="center" style="display:flex; gap: 20px; justify-content:center;">
     <img src="https://img.icons8.com/office/50/000000/react.png" alt="react"/>
     <img src="https://img.icons8.com/ios/50/000000/notion.png" alt="notion"/>
