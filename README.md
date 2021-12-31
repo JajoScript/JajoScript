@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
     <span>
         <img 
             style="width:90px; height:90px; margin:0px; padding:0px; display: inline; margin-right:30px;"
@@ -7,7 +7,7 @@
     <b>Hey! Welcome to my Github Profile!</b>
 </h1>
 
-<h2 style="display:flex; justify-content:center;"><b>🏆 My GitHub stats</b></h2>
+<h2 align="center" style="display:flex; justify-content:center;"><b>🏆 My GitHub stats</b></h2>
 <div align="center" style="display:flex; gap: 20px; justify-content:center;">
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JajoScript" />
     <img width="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=jyx0evb84wd3kriql8jckptee&count=3" />
