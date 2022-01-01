@@ -36,7 +36,6 @@
 
 <h2 align="center" style="display:flex; gap: 20px; justify-content:center;"><b>🎨 Software</b></h2>
 <div align="center" style="display:flex; gap: 20px; justify-content:center;">
-    <img src="https://img.icons8.com/office/50/000000/react.png" alt="react"/>
     <img src="https://img.icons8.com/ios/50/000000/notion.png" alt="notion"/>
     <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
     <img src="https://img.icons8.com/color/50/adobe-xd.png" alt="xd"/>
