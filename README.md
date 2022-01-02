@@ -1,8 +1,8 @@
 <h1 align="center">
     <span>
         <img 
-            style="width:90px; height:90px; margin:0px; padding:0px; display: inline; margin-right:30px;"
-            src="assets/icon_hat.svg"/>
+             style="width:90px; height:90px; margin:0px; padding:0px; display: inline; margin-right:30px;"
+             src="https://img.icons8.com/stickers/100/000000/chile.png"/>
     </span>
     <b>Hey! Welcome to my Github Profile!</b>
 </h1>
@@ -52,4 +52,11 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="xd" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" />
+</div>
+
+<h2 align="center"><b>🤝 Social</b></h2>
+<div align="center">
+    <a href="https://www.instagram.com/jajoscript/?hl=es-la"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+    <a href="https://www.linkedin.com/in/javier-almarza-bucarey/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://open.spotify.com/user/jyx0evb84wd3kriql8jckptee"><img src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></a>
 </div>
