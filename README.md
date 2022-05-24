@@ -10,9 +10,17 @@
 <h2 align="center" style="display:flex; justify-content:center;"><b>🏆 My GitHub stats</b></h2>
 <div align="center" style="display:flex; gap: 20px; justify-content:center;">
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JajoScript" />
+    <!-- disabled
     <img width="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=jyx0evb84wd3kriql8jckptee&count=3" />
+    -->
 </div>
 
+<h2 align="center"><b>🎨 Mi portafolio!</b></h2>
+<div align="center" style="display:flex;">
+    <a href="https://jajoscript.com/">www.JajoScript.com</a>
+</div>
+
+<!-- disabled
 <div align="center" style="display:grid; grid-template-columns: 1fr 1fr; grid-template-row: 1fr;">
     <div align="center">        
         <h2 style="display:flex; gap: 10px; justify-content:center;"><b>🔭 Lenguages</b></h2>
@@ -60,3 +68,4 @@
     <a href="https://www.linkedin.com/in/javier-almarza-bucarey/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="https://open.spotify.com/user/jyx0evb84wd3kriql8jckptee"><img src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></a>
 </div>
+-->
